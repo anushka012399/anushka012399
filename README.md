@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **A semi-supervised NLP model for mental health trauma detection!**
 
-- 🌱 I’m currently learning **BERT and also exploring different frameworks for Natural Language Processing. **
+- 🌱 I’m currently learning **BERT and also exploring different frameworks for Natural Language Processing.**
 
 - 💬 Ask me about **All things Data!**
 
